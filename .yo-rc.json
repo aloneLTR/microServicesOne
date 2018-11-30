@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ltr.micro",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "microservice",
+    "baseName": "microServicesOne",
+    "packageName": "com.ltr.micro",
+    "packageFolder": "com/ltr/micro",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjcwNmVkMTRiZjg2ZjNkZjljMTlkYzU5NTMxYmZjNmE5MDk1NDIzNmUxMWY4MzlkMGRlMjdlOWU1YTJlN2IyYWI5YzA1M2E0M2JlYzJkOTQyYWY5ZmE1MGExYTAyNjBjODQ5NDg1NzAxMWZmY2Q1OTEwNDMzZDkzNTNiZmMzY2M=",
+    "enableTranslation": true,
+    "languages": [
+      "zh-cn"
+    ],
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
